@@ -96,6 +96,7 @@ position:relative;
             position: relative;
                 right: 45px;
                 bottom: 20px;
+                list-style-type: none;
 }
 .inner3{
     display: flex;
@@ -146,6 +147,7 @@ right: 148px;
 }
 
 .inner12>ul {
+    list-style-type: none;
     color: #49499A;
     font-size: 16px;
     font-family: Poppins;
