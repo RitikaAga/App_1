@@ -170,31 +170,37 @@ right: 148px;
     position: relative;
     right: 299px;
         top: 21px;
+        z-index: 999;
 }
 .inner13>:nth-child(2) {
     position: relative;
     right: 189px;
         top: -2px;
+        z-index: 999;
 }
 .inner13>:nth-child(3) {
     position: relative;
     right: 108px;
         top: 10px;
+        z-index: 999;
 }
 .inner13>:nth-child(4) {
     position: relative;
         right: 84px;
             top: 31px;
+            z-index: 999;
 }
 .inner13>:nth-child(5) {
     position: relative;
     right: 144px;
         top: 47px;
+        z-index: 999;
 }
 .inner13>:nth-child(6) {
     position: relative;
         right: 233px;
             top: 32px;
+            z-index: 999;
 }
 .section3{
     display: flex;

@@ -1,10 +1,7 @@
-const img1_heading = 'Smart Universal Searches & Filters'
-const img1_pera ='Single Information Location where User can access everything they are looking for.';
-
- const value1 = document.getElementById("head1") 
-let value2 = document.getElementById("pera1")
-let value3 = document.getElementById("pera2")
-          let value4 = document.getElementById("pera3")
+let value1 = document.getElementById("head1");
+let value2 = document.getElementById("pera1");
+let value3 = document.getElementById("pera2");
+let value4 = document.getElementById("pera3");
 
 function function1() {
     value1.innerText = "Personalized Catalogs and Pricing"; 
